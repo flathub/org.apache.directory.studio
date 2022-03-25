@@ -27,7 +27,9 @@
   <releases>
     <!-- https://directory.apache.org/studio/news.html -->
     <release version="2.0.0.v20210717-M17" date="2021-07-24">
-      <p>The Apache Directory Team is pleased to announce the release of Apache Directory Studio 2.0.0-M17, the next milestone release of the version 2.0 of its Eclipse based LDAP Browser and Directory client.</p>
+      <description>
+        <p>The Apache Directory Team is pleased to announce the release of Apache Directory Studio 2.0.0-M17, the next milestone release of the version 2.0 of its Eclipse based LDAP Browser and Directory client.</p>
+      </description>
       <url>https://directory.apache.org/studio/changelog.html#apache-directory-studio-version-200-m17-july-24th-2021</url>
     </release>
   </releases>
