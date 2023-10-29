@@ -2,7 +2,7 @@ app-id: org.apache.directory.studio
 
 sdk: org.gnome.Sdk
 runtime: org.gnome.Platform
-runtime-version: '44'
+runtime-version: '45'
 sdk-extensions:
   - org.freedesktop.Sdk.Extension.openjdk17
 
